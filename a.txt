@@ -1,2 +1,3 @@
-Nama : Azalia 
+Nama    : Azalia 
 Jurusan : SIJA 
+Usia    : 17 tahun
